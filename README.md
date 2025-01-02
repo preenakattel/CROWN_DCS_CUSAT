@@ -1,4 +1,4 @@
-# MICCAI 2023/CROWN_CHALLENGE/DCS_CUSAT
+# MICCAI 2023/CROWN_CHALLENGE/DCS_CUSAT_TASK1
 This repository contains all the necessary files and configurations required to set up and run the model submitted to crown challenge, enabling users to easily deploy and validate the network in their own environment.
 # Usage
 You can load the dcs_cusat_task1 docker image directly from the dcs_cusat_task1.tar using the following command:
