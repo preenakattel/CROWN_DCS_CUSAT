@@ -22,7 +22,7 @@ Next, you can execute the model's validation script using the following command:
 docker exec [CONTAINER-ID] python /crown_dcs/run.py
 ```
 
-Then, you can copy the output from the container to your local machine: 
+Then, you can copy the output from the container to your local machine with the following command: 
 
 ```bash
 docker cp [CONTAINER-ID]:/output [full_path_to_output_location]
